@@ -21,3 +21,4 @@ after_success:
     - docker push sommysab/multi-nginx
     - docker push sommysab/multi-server
     - docker push sommysab/multi-worker
+    
