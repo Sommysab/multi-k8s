@@ -13,6 +13,6 @@ spec:
   acme:
       config:
         - http01:
-          ingressClass: nginx
+            ingressClass: nginx
           domains:
-          - k8s.agentscovetech.com
+            - k8s.agentscovetech.com
