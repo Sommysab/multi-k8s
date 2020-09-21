@@ -1,4 +1,5 @@
-apiVersion: certmanager.k8s.io/v1alpha1
+apiVersion: cert-manager.io/v1
+# certmanager.k8s.io/v1alpha1
 kind: Certificate
 metadata:
     name: k8s-agentscovetech-com-tls
